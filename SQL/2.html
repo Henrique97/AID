@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="Generator" content="Kate, the KDE Advanced Text Editor" />
+<title>2.sql</title>
+</head>
+<!-- Highlighting: "SQL" -->
+<body>
+<pre style='color:#000000;background-color:#ffffff;'>
+<span style='color:#898887;'>/*</span>
+<span style='color:#898887;'>all_employees(emp_no, birth_date, first_name, last_name, gender, hire_date, title, report_to)</span>
+<span style='color:#898887;'>all_departments(dept_no, dept_name)</span>
+<span style='color:#898887;'>all_dept_emp(emp_no, dept_no, from_date, to_date)</span>
+<span style='color:#898887;'>*/</span>
+
+<span style='color:#898887;'>-- Auxiliar views</span>
+<b>create</b> <b>or</b> <b>replace</b> <b>view</b> employees.curr_dept_emp(emp_no, dept_no, from_date, <span style='color:#644a9b;'>to_date</span>) <b>as</b>
+    <b>select</b> emp_no, dept_no, from_date, <span style='color:#644a9b;'>to_date</span>
+    <b>from</b> employees.dept_emp
+    <b>where</b> from_date &lt;= <span style='color:#644a9b;'>current_date</span> <b>and</b> <span style='color:#644a9b;'>to_date</span> &gt;= <span style='color:#644a9b;'>current_date</span>;
+
+<b>create</b> <b>or</b> <b>replace</b> <b>view</b> employees.curr_dept_manager(emp_no, dept_no) <b>as</b>
+    <b>select</b> emp_no, dept_no
+    <b>from</b> employees.dept_manager
+    <b>where</b> from_date &lt;= <span style='color:#644a9b;'>current_date</span> <b>and</b> <span style='color:#644a9b;'>to_date</span> &gt;= <span style='color:#644a9b;'>current_date</span>;
+
+<b>create</b> <b>or</b> <b>replace</b> <b>view</b> adventureworks.curr_dept_emp(EmployeeID, DepartmentID, ShiftID, StartDate, EndDate, ModifiedDate) <b>as</b>
+    <b>select</b> EmployeeID, DepartmentID, ShiftID, StartDate, EndDate, ModifiedDate
+    <b>from</b> adventureworks.employeedepartmenthistory
+    <b>where</b> StartDate &lt;= <span style='color:#644a9b;'>current_date</span> <b>and</b> (EndDate <b>is</b> <b>NULL</b> <b>or</b> EndDate &gt;= <span style='color:#644a9b;'>current_date</span>);
+
+<span style='color:#898887;'>-- Main views</span>
+<span style='color:#898887;'>-- The maximum emp_no from adventureworks is 290 and the minimum from employees is 10721, so there's no overlap</span>
+<b>create</b> <b>or</b> <b>replace</b> <b>view</b> all_employees(emp_no, birth_date, first_name, last_name, gender, hire_date, title, report_to) <b>as</b>
+    (<b>select</b> a.emp_no, a.birth_date, a.first_name, a.last_name, a.gender, a.hire_date, d.title, c.emp_no <b>as</b> report_to
+    <b>from</b> employees.employees <b>as</b> a,
+        employees.curr_dept_emp <b>as</b> b,
+        employees.curr_dept_manager <b>as</b> c,
+        employees.titles <b>as</b> d
+    <b>where</b> a.emp_no = b.emp_no <b>and</b> b.dept_no = c.dept_no
+        <b>and</b> a.emp_no = d.emp_no)
+    <b>union</b>
+    (<b>select</b> a.EmployeeID, a.BirthDate, b.FirstName, b.LastName, a.Gender, a.HireDate, a.Title, a.ManagerID
+    <b>from</b> adventureworks.employee <b>as</b> a,
+        adventureworks.contact <b>as</b> b
+    <b>where</b> a.ContactID = b.ContactID);
+
+<span style='color:#898887;'>-- dept_no's from adventureworks are numeric and dept_no's from employees have a &quot;d&quot; prefix, so there's no overlap</span>
+<b>create</b> <b>or</b> <b>replace</b> <b>view</b> all_departments(dept_no, dept_name) <b>as</b>
+    (<b>select</b> dept_no, dept_name <b>from</b> employees.departments)
+    <b>union</b>
+    (<b>select</b> DepartmentID, Name <b>from</b> adventureworks.department);
+
+<b>create</b> <b>or</b> <b>replace</b> <b>view</b> all_dept_emp(emp_no, dept_no, from_date, <span style='color:#644a9b;'>to_date</span>) <b>as</b>
+    (<b>select</b> emp_no, dept_no, from_date, <span style='color:#644a9b;'>to_date</span> <b>from</b> employees.curr_dept_emp)
+    <b>union</b>
+    (<b>select</b> EmployeeID, DepartmentID, StartDate, EndDate <b>from</b> adventureworks.curr_dept_emp);
+
+
+<span style='color:#898887;'>-- Test</span>
+<span style='color:#898887;'>/*</span>
+<span style='color:#898887;'>select * from all_employees;</span>
+<span style='color:#898887;'>select * from all_departments;</span>
+<span style='color:#898887;'>select * from all_dept_emp;</span>
+<span style='color:#898887;'>*/</span>
+</pre>
+</body>
+</html>
