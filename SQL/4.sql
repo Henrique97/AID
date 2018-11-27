@@ -12,7 +12,7 @@ CREATE TABLE dim_territory (
     PRIMARY KEY (TerritoryID)
 );
 
--- product, productcategory & productsubcategory
+-- product, productsubcategory & productcategory
 CREATE TABLE dim_product (
     ProductID int(11) NOT NULL,
     Name varchar(50) NOT NULL,
@@ -32,6 +32,7 @@ CREATE TABLE dim_time (
 );
 
 -- salesorderdetail or purchaseorderdetail?
+-- Also the corresponding header
 CREATE TABLE fact_order (
     SalesOrderID int(11) NOT NULL,
     SalesOrderDetailID int(11) NOT NULL,
