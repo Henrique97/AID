@@ -1,0 +1,3 @@
+4)
+    As orders são sobre as salesorders ou purchaseorders? Ou ambas?
+    Como lidar com a slowly changing dimension na dim_product? O que temos de fazer ao certo? Temos de ver as 3 ModifiedDates?

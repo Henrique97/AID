@@ -13,11 +13,12 @@ CREATE TABLE dim_territory (
 );
 
 -- product, productsubcategory & productcategory
+-- Slowly changing dimension!
 CREATE TABLE dim_product (
     ProductID int(11) NOT NULL,
     Name varchar(50) NOT NULL,
     ProductSubcategoryName varchar(50) NOT NULL,
-    ProductCategoryName varchar(50) NOT NULL, -- Slowly changing dimension!
+    ProductCategoryName varchar(50) NOT NULL,
     PRIMARY KEY (ProductID)
 );
 
