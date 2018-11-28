@@ -584,37 +584,37 @@
       <value>
         <name>SalesOrderID</name>
         <rename>SalesOrderID</rename>
-        <update>N</update>
+        <update>Y</update>
       </value>
       <value>
         <name>SalesOrderDetailID</name>
         <rename>SalesOrderDetailID</rename>
-        <update>N</update>
+        <update>Y</update>
       </value>
       <value>
         <name>TerritoryID</name>
         <rename>TerritoryID</rename>
-        <update>N</update>
+        <update>Y</update>
       </value>
       <value>
         <name>ProductID</name>
         <rename>ProductID</rename>
-        <update>N</update>
+        <update>Y</update>
       </value>
       <value>
         <name>OrderDate</name>
         <rename>OrderDate</rename>
-        <update>N</update>
+        <update>Y</update>
       </value>
       <value>
         <name>LineTotal</name>
         <rename>LineTotal</rename>
-        <update>N</update>
+        <update>Y</update>
       </value>
       <value>
         <name>OrderQty</name>
         <rename>OrderQty</rename>
-        <update>N</update>
+        <update>Y</update>
       </value>
     </lookup>
     <cluster_schema />
