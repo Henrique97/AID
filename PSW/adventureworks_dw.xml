@@ -1,0 +1,46 @@
+<Schema name="adventureworks_dw">
+  <Cube name="Orders" visible="true" cache="true" enabled="true">
+    <Table name="fact_order">
+    </Table>
+    <Dimension type="StandardDimension" visible="true" foreignKey="ProductSK" name="Product">
+      <Hierarchy name="Product Hierarchy" visible="true" hasAll="true" allMemberName="All Products" primaryKey="ProductSK">
+        <Table name="dim_product">
+        </Table>
+        <Level name="Product Category" visible="true" column="ProductCategoryName" type="String" uniqueMembers="false" levelType="Regular">
+        </Level>
+        <Level name="Product Subcategory" visible="true" column="ProductSubcategoryName" type="String" uniqueMembers="false" levelType="Regular">
+        </Level>
+        <Level name="Product Name" visible="true" column="Name" type="String" uniqueMembers="false" levelType="Regular">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="TimeDimension" visible="true" foreignKey="OrderDate" name="Time">
+      <Hierarchy name="Time Hierarchy" visible="true" hasAll="true" allMemberName="All Years" primaryKey="OrderDate">
+        <Table name="dim_time">
+        </Table>
+        <Level name="Year" visible="true" column="Year" type="Integer" uniqueMembers="false" levelType="TimeYears">
+        </Level>
+        <Level name="Month" visible="true" column="MonthName" ordinalColumn="MonthID" type="String" uniqueMembers="false" levelType="TimeMonths">
+        </Level>
+        <Level name="Day" visible="true" column="Day" type="Integer" uniqueMembers="false" levelType="TimeDays">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="TerritoryID" name="Territory">
+      <Hierarchy name="Territory Hierarchy" visible="true" hasAll="true" allMemberName="All Territories" primaryKey="TerritoryID">
+        <Table name="dim_territory">
+        </Table>
+        <Level name="Group" visible="true" column="Group" type="String" uniqueMembers="false" levelType="Regular">
+        </Level>
+        <Level name="Region" visible="true" column="CountryRegionCode" type="String" uniqueMembers="false" levelType="Regular">
+        </Level>
+        <Level name="Name" visible="true" column="Name" type="String" uniqueMembers="false" levelType="Regular">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Measure name="Sales" column="LineTotal" datatype="Numeric" formatString="$ #,###.00" aggregator="sum" visible="true">
+    </Measure>
+    <Measure name="Quantity" column="OrderQty" datatype="Integer" formatString="#,###" aggregator="sum" visible="true">
+    </Measure>
+  </Cube>
+</Schema>
