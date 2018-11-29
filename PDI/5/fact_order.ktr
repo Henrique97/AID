@@ -548,6 +548,11 @@
   <order>
     <hop>
       <from>Table input</from>
+      <to>Database lookup</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Database lookup</from>
       <to>Insert / Update</to>
       <enabled>Y</enabled>
     </hop>
@@ -597,8 +602,8 @@
         <update>Y</update>
       </value>
       <value>
-        <name>ProductID</name>
-        <rename>ProductID</rename>
+        <name>ProductSK</name>
+        <rename>ProductSK</rename>
         <update>Y</update>
       </value>
       <value>
@@ -625,7 +630,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>144</xloc>
+      <xloc>240</xloc>
       <yloc>32</yloc>
       <draw>Y</draw>
     </GUI>
@@ -667,6 +672,65 @@ FROM salesorderheader AS a
     </remotesteps>
     <GUI>
       <xloc>32</xloc>
+      <yloc>32</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Database lookup</name>
+    <type>DBLookup</type>
+    <description />
+    <distribute>Y</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <connection>adventureworks_dw</connection>
+    <cache>N</cache>
+    <cache_load_all>N</cache_load_all>
+    <cache_size>0</cache_size>
+    <lookup>
+      <schema />
+      <table>dim_product</table>
+      <orderby />
+      <fail_on_multiple>N</fail_on_multiple>
+      <eat_row_on_failure>N</eat_row_on_failure>
+      <key>
+        <name>ProductID</name>
+        <field>ProductID</field>
+        <condition>=</condition>
+        <name2 />
+      </key>
+      <key>
+        <name>OrderDate</name>
+        <field>DateFrom</field>
+        <condition>&lt;=</condition>
+        <name2 />
+      </key>
+      <key>
+        <name>OrderDate</name>
+        <field>DateTo</field>
+        <condition>&gt;</condition>
+        <name2 />
+      </key>
+      <value>
+        <name>ProductSK</name>
+        <rename>ProductSK</rename>
+        <default />
+        <type>Integer</type>
+      </value>
+    </lookup>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>128</xloc>
       <yloc>32</yloc>
       <draw>Y</draw>
     </GUI>

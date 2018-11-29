@@ -1,3 +1,7 @@
 4)
     As orders são sobre as salesorders ou purchaseorders? Ou ambas?
+        salesorders
+        salesorders são encomendas de clientes à empresa
+        purchaseorders são encomendas da empresa a fornecedores
     Como lidar com a slowly changing dimension na dim_product? O que temos de fazer ao certo? Temos de ver as 3 ModifiedDates?
+        Ver lab 7
