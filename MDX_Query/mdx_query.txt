@@ -1,0 +1,4 @@
+SELECT Measures.Quantity ON COLUMNS,
+NON EMPTY CrossJoin(Territory.[Region].Members, Product.[Product Category].Members) ON ROWS
+FROM Orders
+WHERE {Time.Year.[2003], Time.Year.[2004]}
