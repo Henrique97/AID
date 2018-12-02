@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-11-22T13:08:15.876605566</meta:creation-date><meta:generator>LibreOffice/6.1.3.2$Windows_X86_64 LibreOffice_project/86daf60bf00efa86ad547e59e09d6bb77c699acb</meta:generator><dc:date>2018-12-02T15:39:27.497000000</dc:date><meta:editing-duration>PT3H13M25S</meta:editing-duration><meta:editing-cycles>113</meta:editing-cycles><meta:document-statistic meta:table-count="6" meta:image-count="47" meta:object-count="0" meta:page-count="18" meta:paragraph-count="139" meta:word-count="644" meta:character-count="5451" meta:non-whitespace-character-count="4690"/></office:meta>
+ <office:meta><meta:creation-date>2018-11-22T13:08:15.876605566</meta:creation-date><meta:generator>LibreOffice/6.1.3.2$Windows_X86_64 LibreOffice_project/86daf60bf00efa86ad547e59e09d6bb77c699acb</meta:generator><dc:date>2018-12-02T16:09:07.197000000</dc:date><meta:editing-duration>PT3H16M8S</meta:editing-duration><meta:editing-cycles>115</meta:editing-cycles><meta:document-statistic meta:table-count="6" meta:image-count="47" meta:object-count="0" meta:page-count="18" meta:paragraph-count="142" meta:word-count="655" meta:character-count="5514" meta:non-whitespace-character-count="4745"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">504910</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">6585</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">35059</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">16406</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">14496</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">515923</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">9029</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">10693</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">504910</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">6585</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">35057</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">521314</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">22989</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -83,7 +83,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2531851</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2607940</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -441,121 +441,158 @@
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" fo:font-size="8pt" fo:letter-spacing="normal" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
   <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:paragraph-rsid="0023dc8c"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="#ffffff" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0026a20b" officeooo:paragraph-rsid="0026a20b"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
    <style:text-properties fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.499cm" loext:contextual-spacing="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" fo:font-size="8pt" fo:letter-spacing="normal" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.499cm" loext:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Preformatted_20_Text" style:master-page-name="">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="#ffffff" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0026a20b" officeooo:paragraph-rsid="0026a20b"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
   </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" loext:contextual-spacing="false" fo:background-color="#ffffff" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
    <style:text-properties fo:color="#000000"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" loext:contextual-spacing="false" fo:orphans="2" fo:widows="2" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+   <style:text-properties officeooo:paragraph-rsid="0026a20b"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
    <style:text-properties fo:color="#000000" officeooo:rsid="00174b92" officeooo:paragraph-rsid="00174b92"/>
   </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
    <style:paragraph-properties fo:background-color="#ffffff" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
    <style:text-properties fo:color="#000000"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
+   <style:paragraph-properties fo:background-color="#ffffff" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+   <style:text-properties fo:color="#000000" officeooo:paragraph-rsid="0023dc8c"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
    <style:paragraph-properties fo:background-color="#ffffff" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
    <style:paragraph-properties fo:background-color="#ffffff" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
    <style:text-properties fo:color="#898887"/>
   </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
+   <style:paragraph-properties fo:background-color="#ffffff" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+   <style:text-properties fo:color="#898887" officeooo:paragraph-rsid="0023dc8c"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
+   <style:paragraph-properties fo:background-color="#ffffff" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+   <style:text-properties officeooo:paragraph-rsid="0023dc8c"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:paragraph-rsid="002293a0"/>
   </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Contents_20_2">
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="0026a20b"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Contents_20_2">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="16.501cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="00174b92" officeooo:paragraph-rsid="00174b92"/>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="002293a0"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
-   <style:paragraph-properties fo:background-color="#ffffff" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
-   <style:text-properties fo:color="#000000" officeooo:paragraph-rsid="0023dc8c"/>
-  </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
-   <style:paragraph-properties fo:background-color="#ffffff" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
-   <style:text-properties fo:color="#898887" officeooo:paragraph-rsid="0023dc8c"/>
-  </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
-   <style:paragraph-properties fo:background-color="#ffffff" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
-   <style:text-properties officeooo:paragraph-rsid="0023dc8c"/>
-  </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal"/>
-  </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Preformatted_20_Text" style:master-page-name="">
-   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="#ffffff" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0026a20b" officeooo:paragraph-rsid="0026a20b"/>
-  </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.499cm" loext:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
-  </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal"/>
-  </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:paragraph-rsid="0023dc8c"/>
-  </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal"/>
-  </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="#ffffff" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0026a20b" officeooo:paragraph-rsid="0026a20b"/>
-  </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
-  </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" loext:contextual-spacing="false" fo:orphans="2" fo:widows="2" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:paragraph-rsid="0026a20b"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="First_20_Page">
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="0027cb44" officeooo:paragraph-rsid="0027cb44"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="0027cb44" officeooo:paragraph-rsid="0027cb44"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="#ffffff" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0026a20b" officeooo:paragraph-rsid="0026a20b" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+   <style:text-properties officeooo:paragraph-rsid="0027cb44"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0.049cm" fo:border="0.06pt solid #000000"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0027cb44" officeooo:paragraph-rsid="0027cb44" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Contents_20_1">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Contents_20_2">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="16.501cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="First_20_Page">
    <style:paragraph-properties style:page-number="auto"/>
    <style:text-properties fo:font-size="24pt" fo:font-weight="bold" style:font-size-asian="24pt" style:font-weight-asian="bold" style:font-size-complex="24pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:paragraph-rsid="002293a0"/>
-  </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:paragraph-rsid="0026a20b"/>
-  </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-  </style:style>
-  <style:style style:name="P49" style:family="paragraph">
+  <style:style style:name="P57" style:family="paragraph">
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -611,6 +648,9 @@
   </style:style>
   <style:style style:name="T18" style:family="text">
    <style:text-properties style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties officeooo:rsid="0027cb44"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties style:horizontal-pos="left" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
@@ -682,7 +722,7 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1">
    <style:footer>
-    <text:p text:style-name="P1"><text:page-number text:select-page="current">16</text:page-number>/<text:page-count>18</text:page-count></text:p>
+    <text:p text:style-name="P1"><text:page-number text:select-page="current">18</text:page-number>/<text:page-count>18</text:page-count></text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm2" style:next-style-name="Standard"/>
@@ -697,7 +737,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P44"><draw:frame draw:style-name="fr1" draw:name="Imagem1" text:anchor-type="paragraph" svg:width="4.249cm" svg:height="1.64cm" draw:z-index="0"><draw:image loext:mime-type="image/png">
+   <text:p text:style-name="P55"><draw:frame draw:style-name="fr1" draw:name="Imagem1" text:anchor-type="paragraph" svg:width="4.249cm" svg:height="1.64cm" draw:z-index="0"><draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAm8AAADxCAYAAACdxVCSAAAACXBIWXMAAA7GAAAOxwHzzvzT
        AABYlUlEQVR4nO3dB1QTafcw8CEkEEILvXcEQRBErBQBsffeV9eyrmtdu6591bX33rti7w1B
        xIZiR1Gxo0jvEDp8ue7H+2fjRFMmmSTc3zlzXGcyMzcSdm6ech8ma+/XKgIh9J1HnUzqexgw
@@ -1224,38 +1264,38 @@
      <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1466_2508680109" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3) PDI transformation to detect approximate duplicates between the job titles in both databases<text:tab/>3</text:a></text:p>
      <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc112_1326428829" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4) SQL instructions to create the data warehouse tables<text:tab/>7</text:a></text:p>
      <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1468_2508680109" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">5) Extract-Transform-Load (ETL) process that populates the data warehouse<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P30"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1426_2508680109" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">dim_territory<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P30"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1428_2508680109" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">dim_product<text:tab/>9</text:a></text:p>
-     <text:p text:style-name="P30"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1430_2508680109" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">dim_time<text:tab/>11</text:a></text:p>
-     <text:p text:style-name="P30"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1432_2508680109" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">fact_order<text:tab/>13</text:a></text:p>
-     <text:p text:style-name="P30"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1434_2508680109" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">job<text:tab/>15</text:a></text:p>
-     <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc116_1326428829" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">6)<text:tab/>16</text:a></text:p>
-     <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc118_1326428829" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">7)<text:tab/>16</text:a></text:p>
+     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1426_2508680109" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">dim_territory<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1428_2508680109" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">dim_product<text:tab/>9</text:a></text:p>
+     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1430_2508680109" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">dim_time<text:tab/>11</text:a></text:p>
+     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1432_2508680109" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">fact_order<text:tab/>13</text:a></text:p>
+     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1434_2508680109" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">job<text:tab/>15</text:a></text:p>
+     <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc116_1326428829" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">6) SQL Queries<text:tab/>16</text:a></text:p>
+     <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc118_1326428829" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">7) SQL/OLAP query<text:tab/>16</text:a></text:p>
      <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc120_1326428829" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">8)<text:tab/>16</text:a></text:p>
-     <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc122_1326428829" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">9)<text:tab/>16</text:a></text:p>
-     <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc124_1326428829" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">10)<text:tab/>16</text:a></text:p>
-     <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc126_1326428829" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">11)<text:tab/>16</text:a></text:p>
+     <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc122_1326428829" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">9)<text:tab/>17</text:a></text:p>
+     <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc124_1326428829" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">10)<text:tab/>17</text:a></text:p>
+     <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc126_1326428829" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">11)<text:tab/>17</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
    <text:p text:style-name="P5"/>
    <text:h text:style-name="P8" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc106_1326428829"/>1) Schema matching between the AdventureWorks database and the mediated schema<text:bookmark-end text:name="__RefHeading___Toc106_1326428829"/></text:h>
    <text:p text:style-name="P14"/>
-   <text:p text:style-name="Código_20_2"><draw:polyline text:anchor-type="paragraph" draw:z-index="4" draw:name="Forma2" draw:style-name="gr1" draw:text-style-name="P49" svg:width="5.367cm" svg:height="1.79cm" draw:transform="skewX (0.000349065850398868) rotate (-1.57830124257847) translate (4.72402195266104cm 0.405697016740836cm)" svg:viewBox="0 0 5368 1791" draw:points="0,0 5332,0 5368,1791">
+   <text:p text:style-name="Código_20_2"><draw:polyline text:anchor-type="paragraph" draw:z-index="4" draw:name="Forma2" draw:style-name="gr1" draw:text-style-name="P57" svg:width="5.367cm" svg:height="1.79cm" draw:transform="skewX (0.000349065850398868) rotate (-1.57830124257847) translate (4.72402195266105cm 0.405697016740836cm)" svg:viewBox="0 0 5368 1791" draw:points="0,0 5332,0 5368,1791">
      <text:p/>
     </draw:polyline>all_employees(emp_no, birth_date, first_name, last_name, gender, hire_date, title, report_to)</text:p>
-   <text:p text:style-name="P14"><draw:line text:anchor-type="paragraph" draw:z-index="3" draw:name="Forma1" draw:style-name="gr1" draw:text-style-name="P49" svg:x1="3.052cm" svg:y1="0.065cm" svg:x2="3.364cm" svg:y2="1.797cm">
+   <text:p text:style-name="P14"><draw:line text:anchor-type="paragraph" draw:z-index="3" draw:name="Forma1" draw:style-name="gr1" draw:text-style-name="P57" svg:x1="3.052cm" svg:y1="0.065cm" svg:x2="3.364cm" svg:y2="1.797cm">
      <text:p/>
-    </draw:line><draw:polyline text:anchor-type="paragraph" draw:z-index="5" draw:name="Forma5" draw:style-name="gr1" draw:text-style-name="P49" svg:width="9.615cm" svg:height="1.597cm" draw:transform="rotate (-2.30557994188451) translate (10.260787810275cm 0.111347407817069cm)" svg:viewBox="0 0 9616 1598" draw:points="0,0 8227,0 9616,1598">
+    </draw:line><draw:polyline text:anchor-type="paragraph" draw:z-index="5" draw:name="Forma5" draw:style-name="gr1" draw:text-style-name="P57" svg:width="9.615cm" svg:height="1.597cm" draw:transform="rotate (-2.30557994188451) translate (10.260787810275cm 0.111347407817069cm)" svg:viewBox="0 0 9616 1598" draw:points="0,0 8227,0 9616,1598">
      <text:p/>
-    </draw:polyline><draw:polyline text:anchor-type="paragraph" draw:z-index="6" draw:name="Forma6" draw:style-name="gr1" draw:text-style-name="P49" svg:width="11.221cm" svg:height="1.418cm" draw:transform="rotate (-2.39790785931501) translate (11.96975cm 0.00881944444443803cm)" svg:viewBox="0 0 11222 1419" draw:points="0,0 9680,0 11222,1419">
+    </draw:polyline><draw:polyline text:anchor-type="paragraph" draw:z-index="6" draw:name="Forma6" draw:style-name="gr1" draw:text-style-name="P57" svg:width="11.221cm" svg:height="1.418cm" draw:transform="rotate (-2.39790785931501) translate (11.96975cm 0.00881944444443803cm)" svg:viewBox="0 0 11222 1419" draw:points="0,0 9680,0 11222,1419">
      <text:p/>
-    </draw:polyline><draw:polyline text:anchor-type="paragraph" draw:z-index="7" draw:name="Forma7" draw:style-name="gr1" draw:text-style-name="P49" svg:width="12.103cm" svg:height="1.482cm" draw:transform="skewX (0.0244346095279206) rotate (-2.60979083050712) translate (13.1497916666667cm 0.0299861111111047cm)" svg:viewBox="0 0 12104 1483" draw:points="0,0 9593,2 12104,1483">
+    </draw:polyline><draw:polyline text:anchor-type="paragraph" draw:z-index="7" draw:name="Forma7" draw:style-name="gr1" draw:text-style-name="P57" svg:width="12.103cm" svg:height="1.482cm" draw:transform="skewX (0.0244346095279206) rotate (-2.60979083050712) translate (13.1497916666667cm 0.0299861111111047cm)" svg:viewBox="0 0 12104 1483" draw:points="0,0 9593,2 12104,1483">
      <text:p/>
-    </draw:polyline><draw:polyline text:anchor-type="paragraph" draw:z-index="8" draw:name="Forma3" draw:style-name="gr1" draw:text-style-name="P49" svg:width="7.241cm" svg:height="0.743cm" draw:transform="rotate (-0.613483232076007) translate (7.04464417390329cm -0.59945643465297cm)" svg:viewBox="0 0 7242 744" draw:points="0,744 6223,743 7242,0">
+    </draw:polyline><draw:polyline text:anchor-type="paragraph" draw:z-index="8" draw:name="Forma3" draw:style-name="gr1" draw:text-style-name="P57" svg:width="7.241cm" svg:height="0.743cm" draw:transform="rotate (-0.613483232076007) translate (7.04464417390328cm -0.59945643465297cm)" svg:viewBox="0 0 7242 744" draw:points="0,744 6223,743 7242,0">
      <text:p/>
-    </draw:polyline><draw:polyline text:anchor-type="paragraph" draw:z-index="9" draw:name="Forma4" draw:style-name="gr1" draw:text-style-name="P49" svg:width="6.157cm" svg:height="0.955cm" draw:transform="rotate (-0.937067275395756) translate (9.34132373913202cm -0.557440534470023cm)" svg:viewBox="0 0 6158 956" draw:points="0,956 5431,956 6158,0">
+    </draw:polyline><draw:polyline text:anchor-type="paragraph" draw:z-index="9" draw:name="Forma4" draw:style-name="gr1" draw:text-style-name="P57" svg:width="6.157cm" svg:height="0.955cm" draw:transform="rotate (-0.937067275395756) translate (9.34132373913202cm -0.557440534470023cm)" svg:viewBox="0 0 6158 956" draw:points="0,956 5431,956 6158,0">
      <text:p/>
-    </draw:polyline><draw:polyline text:anchor-type="paragraph" draw:z-index="10" draw:name="Forma8" draw:style-name="gr1" draw:text-style-name="P49" svg:width="12.025cm" svg:height="2.168cm" draw:transform="rotate (-2.97980063192992) translate (15.1484752898044cm 2.29267180175864cm)" svg:viewBox="0 0 12026 2169" draw:points="0,2169 9219,2169 9573,0 12026,256">
+    </draw:polyline><draw:polyline text:anchor-type="paragraph" draw:z-index="10" draw:name="Forma8" draw:style-name="gr1" draw:text-style-name="P57" svg:width="12.025cm" svg:height="2.168cm" draw:transform="rotate (-2.97980063192992) translate (15.1484752898044cm 2.29267180175863cm)" svg:viewBox="0 0 12026 2169" draw:points="0,2169 9219,2169 9573,0 12026,256">
      <text:p/>
     </draw:polyline></text:p>
    <text:p text:style-name="P14"><draw:frame draw:style-name="fr2" draw:name="Imagem2" text:anchor-type="paragraph" svg:width="4.519cm" svg:height="8.632cm" draw:z-index="1"><draw:image loext:mime-type="image/png">
@@ -1695,9 +1735,9 @@
     <table:table-row>
      <table:table-cell table:style-name="Tabela1.A1" office:value-type="string">
       <text:p text:style-name="P16">all_departments(dept_no, dept_name)</text:p>
-      <text:p text:style-name="P16"><draw:polyline text:anchor-type="paragraph" draw:z-index="13" draw:name="Forma9" draw:style-name="gr1" draw:text-style-name="P49" svg:width="1.668cm" svg:height="1.281cm" draw:transform="rotate (-3.14159265358979) translate (3.54365277777778cm 1.32468055555556cm)" svg:viewBox="0 0 1669 1282" draw:points="1002,0 1646,0 1669,1142 0,1282">
+      <text:p text:style-name="P16"><draw:polyline text:anchor-type="paragraph" draw:z-index="13" draw:name="Forma9" draw:style-name="gr1" draw:text-style-name="P57" svg:width="1.668cm" svg:height="1.281cm" draw:transform="rotate (-3.14159265358979) translate (3.54365277777778cm 1.32468055555556cm)" svg:viewBox="0 0 1669 1282" draw:points="1002,0 1646,0 1669,1142 0,1282">
         <text:p/>
-       </draw:polyline><draw:polyline text:anchor-type="paragraph" draw:z-index="14" draw:name="Forma10" draw:style-name="gr1" draw:text-style-name="P49" svg:width="1.729cm" svg:height="2.197cm" svg:x="4.643cm" svg:y="0.042cm" svg:viewBox="0 0 1730 2198" draw:points="0,2198 1730,2198 1628,122 651,0">
+       </draw:polyline><draw:polyline text:anchor-type="paragraph" draw:z-index="14" draw:name="Forma10" draw:style-name="gr1" draw:text-style-name="P57" svg:width="1.729cm" svg:height="2.197cm" svg:x="4.643cm" svg:y="0.042cm" svg:viewBox="0 0 1730 2198" draw:points="0,2198 1730,2198 1628,122 651,0">
         <text:p/>
        </draw:polyline></text:p>
       <text:p text:style-name="P16"><draw:frame draw:style-name="fr4" draw:name="Imagem4" text:anchor-type="paragraph" svg:width="3.595cm" svg:height="3.131cm" draw:z-index="11"><draw:image loext:mime-type="image/png">
@@ -1793,7 +1833,7 @@
       <text:p text:style-name="P16"/>
      </table:table-cell>
      <table:table-cell table:style-name="Tabela1.A1" office:value-type="string">
-      <text:p text:style-name="P16"><draw:polyline text:anchor-type="paragraph" draw:z-index="18" draw:name="Forma14" draw:style-name="gr1" draw:text-style-name="P49" svg:width="2.624cm" svg:height="3.641cm" svg:x="5.017cm" svg:y="0.33cm" svg:viewBox="0 0 2625 3642" draw:points="0,3642 2625,3642 2625,0">
+      <text:p text:style-name="P16"><draw:polyline text:anchor-type="paragraph" draw:z-index="18" draw:name="Forma14" draw:style-name="gr1" draw:text-style-name="P57" svg:width="2.624cm" svg:height="3.641cm" svg:x="5.017cm" svg:y="0.33cm" svg:viewBox="0 0 2625 3642" draw:points="0,3642 2625,3642 2625,0">
         <text:p/>
        </draw:polyline>all_dept_emp(emp_no, dept_no, from_date, to_date)</text:p>
       <text:p text:style-name="P16"><draw:frame draw:style-name="fr5" draw:name="Imagem5" text:anchor-type="paragraph" svg:x="1.792cm" svg:y="0.406cm" svg:width="4.916cm" svg:height="3.978cm" draw:z-index="12"><draw:image loext:mime-type="image/png">
@@ -1931,11 +1971,11 @@
           A7zNjRyuyp0GAAAAAElFTkSuQmCC
          </office:binary-data>
         </draw:image>
-       </draw:frame><draw:polyline text:anchor-type="paragraph" draw:z-index="15" draw:name="Forma11" draw:style-name="gr1" draw:text-style-name="P49" svg:width="1.343cm" svg:height="1.484cm" draw:transform="rotate (-3.14159265358979) translate (2.73755555555556cm 1.48695833333333cm)" svg:viewBox="0 0 1344 1485" draw:points="872,0 1325,0 1344,1221 0,1485">
+       </draw:frame><draw:polyline text:anchor-type="paragraph" draw:z-index="15" draw:name="Forma11" draw:style-name="gr1" draw:text-style-name="P57" svg:width="1.343cm" svg:height="1.484cm" draw:transform="rotate (-3.14159265358979) translate (2.73755555555556cm 1.48695833333333cm)" svg:viewBox="0 0 1344 1485" draw:points="872,0 1325,0 1344,1221 0,1485">
         <text:p/>
-       </draw:polyline><draw:polyline text:anchor-type="paragraph" draw:z-index="16" draw:name="Forma12" draw:style-name="gr1" draw:text-style-name="P49" svg:width="3.199cm" svg:height="1.732cm" draw:transform="rotate (-3.11680897821147) translate (4.22512126334022cm 1.79576589428568cm)" svg:viewBox="0 0 3200 1733" draw:points="2344,0 3200,0 3167,1323 0,1733">
+       </draw:polyline><draw:polyline text:anchor-type="paragraph" draw:z-index="16" draw:name="Forma12" draw:style-name="gr1" draw:text-style-name="P57" svg:width="3.199cm" svg:height="1.732cm" draw:transform="rotate (-3.11680897821147) translate (4.22512126334022cm 1.79576589428569cm)" svg:viewBox="0 0 3200 1733" draw:points="2344,0 3200,0 3167,1323 0,1733">
         <text:p/>
-       </draw:polyline><draw:polyline text:anchor-type="paragraph" draw:z-index="17" draw:name="Forma13" draw:style-name="gr1" draw:text-style-name="P49" svg:width="1.687cm" svg:height="2.299cm" svg:x="5.241cm" svg:y="0.023cm" svg:viewBox="0 0 1688 2300" draw:points="0,2300 1688,2300 1688,284 753,0">
+       </draw:polyline><draw:polyline text:anchor-type="paragraph" draw:z-index="17" draw:name="Forma13" draw:style-name="gr1" draw:text-style-name="P57" svg:width="1.687cm" svg:height="2.299cm" svg:x="5.241cm" svg:y="0.023cm" svg:viewBox="0 0 1688 2300" draw:points="0,2300 1688,2300 1688,284 753,0">
         <text:p/>
        </draw:polyline></text:p>
      </table:table-cell>
@@ -1949,17 +1989,17 @@
    <text:p text:style-name="P20"><text:s text:c="4"/><text:span text:style-name="T6">select</text:span><text:span text:style-name="T7"> emp_no, dept_no, from_date, </text:span><text:span text:style-name="T5">to_date</text:span></text:p>
    <text:p text:style-name="P20"><text:s text:c="4"/><text:span text:style-name="T6">from</text:span><text:span text:style-name="T7"> employees.dept_emp</text:span></text:p>
    <text:p text:style-name="P20"><text:s text:c="4"/><text:span text:style-name="T6">where</text:span><text:span text:style-name="T7"> from_date &lt;= </text:span><text:span text:style-name="T5">current_date</text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T6">and</text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T5">to_date</text:span><text:span text:style-name="T7"> &gt;= </text:span><text:span text:style-name="T5">current_date</text:span><text:span text:style-name="T7">;</text:span></text:p>
-   <text:p text:style-name="P21"/>
+   <text:p text:style-name="P25"/>
    <text:p text:style-name="P19"><text:span text:style-name="T2">create</text:span> <text:span text:style-name="T2">or</text:span> <text:span text:style-name="T2">replace</text:span> <text:span text:style-name="T2">view</text:span> employees.curr_dept_manager(emp_no, dept_no) <text:span text:style-name="T2">as</text:span></text:p>
    <text:p text:style-name="P20"><text:s text:c="4"/><text:span text:style-name="T6">select</text:span><text:span text:style-name="T7"> emp_no, dept_no</text:span></text:p>
    <text:p text:style-name="P20"><text:s text:c="4"/><text:span text:style-name="T6">from</text:span><text:span text:style-name="T7"> employees.dept_manager</text:span></text:p>
    <text:p text:style-name="P20"><text:soft-page-break/><text:s text:c="4"/><text:span text:style-name="T6">where</text:span><text:span text:style-name="T7"> from_date &lt;= </text:span><text:span text:style-name="T5">current_date</text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T6">and</text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T5">to_date</text:span><text:span text:style-name="T7"> &gt;= </text:span><text:span text:style-name="T5">current_date</text:span><text:span text:style-name="T7">;</text:span></text:p>
-   <text:p text:style-name="P21"/>
+   <text:p text:style-name="P25"/>
    <text:p text:style-name="P19"><text:span text:style-name="T2">create</text:span> <text:span text:style-name="T2">or</text:span> <text:span text:style-name="T2">replace</text:span> <text:span text:style-name="T2">view</text:span> adventureworks.curr_dept_emp(EmployeeID, DepartmentID, ShiftID, StartDate, EndDate, ModifiedDate) <text:span text:style-name="T2">as</text:span></text:p>
    <text:p text:style-name="P20"><text:s text:c="4"/><text:span text:style-name="T6">select</text:span><text:span text:style-name="T7"> EmployeeID, DepartmentID, ShiftID, StartDate, EndDate, ModifiedDate</text:span></text:p>
    <text:p text:style-name="P20"><text:s text:c="4"/><text:span text:style-name="T6">from</text:span><text:span text:style-name="T7"> adventureworks.employeedepartmenthistory</text:span></text:p>
    <text:p text:style-name="P20"><text:s text:c="4"/><text:span text:style-name="T6">where</text:span><text:span text:style-name="T7"> StartDate &lt;= </text:span><text:span text:style-name="T5">current_date</text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T6">and</text:span><text:span text:style-name="T7"> (EndDate </text:span><text:span text:style-name="T6">is</text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T6">NULL</text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T6">or</text:span><text:span text:style-name="T7"> EndDate &gt;= </text:span><text:span text:style-name="T5">current_date</text:span><text:span text:style-name="T7">);</text:span></text:p>
-   <text:p text:style-name="P21"/>
+   <text:p text:style-name="P25"/>
    <text:p text:style-name="P18">-- Main views</text:p>
    <text:p text:style-name="P18">-- The maximum emp_no from adventureworks is 290 and the minimum from employees is 10721, so there&apos;s no overlap</text:p>
    <text:p text:style-name="P19"><text:span text:style-name="T2">create</text:span> <text:span text:style-name="T2">or</text:span> <text:span text:style-name="T2">replace</text:span> <text:span text:style-name="T2">view</text:span> all_employees(emp_no, birth_date, first_name, last_name, gender, hire_date, title, report_to) <text:span text:style-name="T2">as</text:span></text:p>
@@ -1975,17 +2015,17 @@
    <text:p text:style-name="P20"><text:s text:c="4"/><text:span text:style-name="T6">from</text:span><text:span text:style-name="T7"> adventureworks.employee </text:span><text:span text:style-name="T6">as</text:span><text:span text:style-name="T7"> a,</text:span></text:p>
    <text:p text:style-name="P20"><text:s text:c="8"/><text:span text:style-name="T7">adventureworks.contact </text:span><text:span text:style-name="T6">as</text:span><text:span text:style-name="T7"> b</text:span></text:p>
    <text:p text:style-name="P20"><text:s text:c="4"/><text:span text:style-name="T6">where</text:span><text:span text:style-name="T7"> a.ContactID = b.ContactID);</text:span></text:p>
-   <text:p text:style-name="P21"/>
+   <text:p text:style-name="P25"/>
    <text:p text:style-name="P18">-- dept_no&apos;s from adventureworks are numeric and dept_no&apos;<text:span text:style-name="T8">s</text:span> from employees have a &quot;d&quot; prefix, so there&apos;s no overlap</text:p>
    <text:p text:style-name="P19"><text:span text:style-name="T2">create</text:span> <text:span text:style-name="T2">or</text:span> <text:span text:style-name="T2">replace</text:span> <text:span text:style-name="T2">view</text:span> all_departments(dept_no, dept_name) <text:span text:style-name="T2">as</text:span></text:p>
    <text:p text:style-name="P20"><text:s text:c="4"/><text:span text:style-name="T7">(</text:span><text:span text:style-name="T6">select</text:span><text:span text:style-name="T7"> dept_no, dept_name </text:span><text:span text:style-name="T6">from</text:span><text:span text:style-name="T7"> employees.departments)</text:span></text:p>
    <text:p text:style-name="P20"><text:s text:c="4"/><text:span text:style-name="T6">union</text:span></text:p>
    <text:p text:style-name="P20"><text:s text:c="4"/><text:span text:style-name="T7">(</text:span><text:span text:style-name="T6">select</text:span><text:span text:style-name="T7"> DepartmentID, Name </text:span><text:span text:style-name="T6">from</text:span><text:span text:style-name="T7"> adventureworks.department);</text:span></text:p>
-   <text:p text:style-name="P21"/>
+   <text:p text:style-name="P25"/>
    <text:p text:style-name="P19"><text:span text:style-name="T2">create</text:span> <text:span text:style-name="T2">or</text:span> <text:span text:style-name="T2">replace</text:span> <text:span text:style-name="T2">view</text:span> all_dept_emp(emp_no, dept_no, from_date, <text:span text:style-name="T4">to_date</text:span>) <text:span text:style-name="T2">as</text:span></text:p>
    <text:p text:style-name="P20"><text:s text:c="4"/><text:span text:style-name="T7">(</text:span><text:span text:style-name="T6">select</text:span><text:span text:style-name="T7"> emp_no, dept_no, from_date, </text:span><text:span text:style-name="T5">to_date</text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T6">from</text:span><text:span text:style-name="T7"> employees.curr_dept_emp)</text:span></text:p>
    <text:p text:style-name="P20"><text:s text:c="4"/><text:span text:style-name="T6">union</text:span></text:p>
-   <text:p text:style-name="P22"><text:s text:c="4"/><text:span text:style-name="T7">(</text:span><text:span text:style-name="T6">select</text:span><text:span text:style-name="T7"> EmployeeID, DepartmentID, StartDate, EndDate </text:span><text:span text:style-name="T6">from</text:span><text:span text:style-name="T7"> adventureworks.curr_dept_emp);</text:span></text:p>
+   <text:p text:style-name="P27"><text:s text:c="4"/><text:span text:style-name="T7">(</text:span><text:span text:style-name="T6">select</text:span><text:span text:style-name="T7"> EmployeeID, DepartmentID, StartDate, EndDate </text:span><text:span text:style-name="T6">from</text:span><text:span text:style-name="T7"> adventureworks.curr_dept_emp);</text:span></text:p>
    <text:p text:style-name="P4"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1466_2508680109"/>3) PDI transformation to detect approximate duplicates between the job titles in both databases<text:bookmark-end text:name="__RefHeading___Toc1466_2508680109"/></text:h>
    <text:p text:style-name="P4"/>
@@ -4799,7 +4839,7 @@
     <table:table-column table:style-name="Tabela2.B"/>
     <table:table-row>
      <table:table-cell table:style-name="Tabela2.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr7" draw:name="Imagem7" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="9.68cm" draw:z-index="19"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr7" draw:name="Imagem7" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="9.68cm" draw:z-index="19"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAlUAAALTCAYAAAA/7/d3AAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzs3Xd4FFXbwOHfbEk2vUEChNBC7yBNEBAVkI4ioJ+iWFGKqNgAu76W1/oCiiIWUFEs
           FAURpImCUgTpJXRCKElIz26yuzPfH5sNm2F3U4gUfW4uruzOnDnzzMxm58k5Z2YUvJg6darm
@@ -5606,7 +5646,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabela2.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr7" draw:name="Imagem8" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="9.68cm" draw:z-index="20"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr7" draw:name="Imagem8" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="9.68cm" draw:z-index="20"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAlUAAALTCAYAAAA/7/d3AAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzsnXd8FMX7x997Jbl0kkBCEkILJfQiRUGaUqRIEUH9KhZEUYoNG9j1Z/3avoAiiAVU
           FJWmIIIIiII0QXoJndDT211yd7u/Py4XLsvdJYEIos87r7yyOzM788zuZedzzzw7q+CFSZMm
@@ -6444,7 +6484,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabela2.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr7" draw:name="Imagem9" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="5.549cm" draw:z-index="21"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr7" draw:name="Imagem9" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="5.549cm" draw:z-index="21"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA/EAAAK8CAYAAACncD+TAAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzs3Xd8FEX/wPHP3l16JYSELoauCCJVpPdeBVEQBPWHIEVRsTfsPrbnCRYULIgoIhYE
           GygdAZEuvUkJJEB6cpdcmd8fKVzCtfQLfN+vV15wt7szs/vdmZ3ZdhoOxMbGKkffCyGEEEII
@@ -7043,7 +7083,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabela2.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr7" draw:name="Imagem10" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="5.549cm" draw:z-index="22"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr7" draw:name="Imagem10" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="5.549cm" draw:z-index="22"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA/EAAAK8CAYAAACncD+TAAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzs3Xd8U1X/wPHPvUn3pC0t21K2LNmI7I1sEBwgiONBENyi4gT39vmBAwUVHkUQcbBE
           NjIERJAhG5RVoEB3m7QZ9/dHB2mbpGmbtmn5vl+vviDJveec3O85555zVxTsmDVrlmbvfSGE
@@ -7655,7 +7695,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabela2.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr7" draw:name="Imagem11" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="5.74cm" draw:z-index="23"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr7" draw:name="Imagem11" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="5.74cm" draw:z-index="23"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA4IAAAKFCAYAAACZe1dtAAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzs3Xd4FFXDxuHf7maTzaaHkFBCkSYEEIMUX6QjXYoCNhSwgIoCKuIr8tlfu6JSRAS7
           ooiIoCAIIlIsiKCotEiHQALpZZNsduf7AwLLkopBIHnu6/Ii2Zk5c2bW7Myz58w5JgoxdepU
@@ -8488,7 +8528,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabela2.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr7" draw:name="Imagem12" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="5.74cm" draw:z-index="24"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr7" draw:name="Imagem12" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="5.74cm" draw:z-index="24"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA4IAAAKFCAYAAACZe1dtAAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzs3Xd4FFXDxuHf7maTzaYXEkoo0oQAYpDii3SkS1HArmABFQVUxFfks792xQIWBBsq
           iogICtJEpFgAQVFpkQ6BBNLLJtnszvcHBJYlFYNA8tzX5UWyM3PmzKzZmWfPmXNMFGHy5MlG
@@ -9338,7 +9378,7 @@
     <text:soft-page-break/>
     <table:table-row>
      <table:table-cell table:style-name="Tabela2.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr8" draw:name="Imagem13" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="5.6cm" draw:z-index="25"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr8" draw:name="Imagem13" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="5.6cm" draw:z-index="25"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAagAAAEpCAYAAADGXra9AAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzs3Xd4FNX6wPHvbMluNr2QkNB7F1GKIlUIRRAQBMGK7aoIdu8Vvfqz3Ct2vQZEEAUV
           sYOoKEKQonSlSu8tkJ7sZrN95vdHCCQhZUNJFnk/z+MjmXLmPTNn551zZnZWoQzJyclaWdOF
@@ -9852,7 +9892,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabela2.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr8" draw:name="Imagem14" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="5.6cm" draw:z-index="26"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr8" draw:name="Imagem14" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="5.6cm" draw:z-index="26"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAagAAAEpCAYAAADGXra9AAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzs3Xd4FNX6wPHvbMluNr2QkNB7F1GKIh1CEQQEQcCGvWL3XtGrP8u9olivoAiioCLo
           VUFQFCFIUbpSRXqHQHqym832md8fIZCElA0lWeD9PA8P2dmZM++ZOTvvnDmzswqlmDRpklba
@@ -14130,60 +14170,60 @@
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc112_1326428829"/>4) <text:s/>SQL instructions to create the data warehouse tables<text:bookmark-end text:name="__RefHeading___Toc112_1326428829"/></text:h>
    <text:p text:style-name="P4"/>
-   <text:p text:style-name="P25"><text:span text:style-name="T2">DROP</text:span> <text:span text:style-name="T2">DATABASE</text:span> <text:span text:style-name="T2">IF</text:span> <text:span text:style-name="T2">EXISTS</text:span> adventureworks_dw;</text:p>
-   <text:p text:style-name="P26"><text:span text:style-name="T2">CREATE</text:span> <text:span text:style-name="T2">DATABASE</text:span> adventureworks_dw;</text:p>
-   <text:p text:style-name="P27"/>
-   <text:p text:style-name="P26"><text:span text:style-name="T2">USE</text:span> adventureworks_dw;</text:p>
-   <text:p text:style-name="P27"/>
-   <text:p text:style-name="P28">-- salesterritory</text:p>
-   <text:p text:style-name="P26"><text:span text:style-name="T2">CREATE</text:span> <text:span text:style-name="T2">TABLE</text:span> dim_territory (</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>TerritoryID <text:span text:style-name="T9">int</text:span>(<text:span text:style-name="T11">11</text:span>) <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>Name <text:span text:style-name="T9">varchar</text:span>(<text:span text:style-name="T11">50</text:span>) <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>CountryRegionCode <text:span text:style-name="T9">varchar</text:span>(<text:span text:style-name="T11">3</text:span>) <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>`Group` <text:span text:style-name="T9">varchar</text:span>(<text:span text:style-name="T11">50</text:span>) <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/><text:span text:style-name="T2">PRIMARY</text:span> <text:span text:style-name="T2">KEY</text:span> (TerritoryID)</text:p>
-   <text:p text:style-name="P26">);</text:p>
-   <text:p text:style-name="P27"/>
-   <text:p text:style-name="P28">-- product, productsubcategory &amp; productcategory</text:p>
-   <text:p text:style-name="P28">-- Slowly changing dimension!</text:p>
-   <text:p text:style-name="P26"><text:span text:style-name="T2">CREATE</text:span> <text:span text:style-name="T2">TABLE</text:span> dim_product (</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>ProductSK <text:span text:style-name="T9">int</text:span>(<text:span text:style-name="T11">11</text:span>),</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>ProductID <text:span text:style-name="T9">int</text:span>(<text:span text:style-name="T11">11</text:span>),</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>Name <text:span text:style-name="T9">varchar</text:span>(<text:span text:style-name="T11">50</text:span>),</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>ProductSubcategoryName <text:span text:style-name="T9">varchar</text:span>(<text:span text:style-name="T11">50</text:span>),</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>ProductCategoryName <text:span text:style-name="T9">varchar</text:span>(<text:span text:style-name="T11">50</text:span>),</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>Version <text:span text:style-name="T9">int</text:span>,</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>DateFrom DATETIME,</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>DateTo DATETIME,</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/><text:span text:style-name="T2">PRIMARY</text:span> <text:span text:style-name="T2">KEY</text:span> (ProductSK)</text:p>
-   <text:p text:style-name="P26">);</text:p>
-   <text:p text:style-name="P27"/>
-   <text:p text:style-name="P28">-- salesorderheader</text:p>
-   <text:p text:style-name="P26"><text:span text:style-name="T2">CREATE</text:span> <text:span text:style-name="T2">TABLE</text:span> dim_time (</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>OrderDate <text:span text:style-name="T9">timestamp</text:span> <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>`Day` <text:span text:style-name="T9">int</text:span>,</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>MonthID <text:span text:style-name="T9">int</text:span>,</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>MonthName <text:span text:style-name="T9">varchar</text:span>(<text:span text:style-name="T11">255</text:span>),</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>`Year` <text:span text:style-name="T9">int</text:span>,</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/><text:span text:style-name="T2">PRIMARY</text:span> <text:span text:style-name="T2">KEY</text:span> (OrderDate)</text:p>
-   <text:p text:style-name="P26">);</text:p>
-   <text:p text:style-name="P27"/>
-   <text:p text:style-name="P28">-- salesorderdetail &amp; salesorderheader</text:p>
-   <text:p text:style-name="P26"><text:span text:style-name="T2">CREATE</text:span> <text:span text:style-name="T2">TABLE</text:span> fact_order (</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>SalesOrderID <text:span text:style-name="T9">int</text:span>(<text:span text:style-name="T11">11</text:span>) <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>SalesOrderDetailID <text:span text:style-name="T9">int</text:span>(<text:span text:style-name="T11">11</text:span>) <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>TerritoryID <text:span text:style-name="T9">int</text:span>(<text:span text:style-name="T11">11</text:span>) <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
-   <text:p text:style-name="P26"><text:soft-page-break/><text:s text:c="4"/>ProductSK <text:span text:style-name="T9">int</text:span>(<text:span text:style-name="T11">11</text:span>) <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>OrderDate <text:span text:style-name="T9">timestamp</text:span> <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>LineTotal <text:span text:style-name="T9">double</text:span> <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/>OrderQty <text:span text:style-name="T9">smallint</text:span>(<text:span text:style-name="T11">6</text:span>) <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/><text:span text:style-name="T2">PRIMARY</text:span> <text:span text:style-name="T2">KEY</text:span> (SalesOrderDetailID, SalesOrderID),</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/><text:span text:style-name="T2">FOREIGN</text:span> <text:span text:style-name="T2">KEY</text:span> (TerritoryID) <text:span text:style-name="T2">REFERENCES</text:span> dim_territory (TerritoryID),</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/><text:span text:style-name="T2">FOREIGN</text:span> <text:span text:style-name="T2">KEY</text:span> (ProductSK) <text:span text:style-name="T2">REFERENCES</text:span> dim_product (ProductSK),</text:p>
-   <text:p text:style-name="P26"><text:s text:c="4"/><text:span text:style-name="T2">FOREIGN</text:span> <text:span text:style-name="T2">KEY</text:span> (OrderDate) <text:span text:style-name="T2">REFERENCES</text:span> dim_time (OrderDate)</text:p>
-   <text:p text:style-name="P24">);</text:p>
+   <text:p text:style-name="P33"><text:span text:style-name="T2">DROP</text:span> <text:span text:style-name="T2">DATABASE</text:span> <text:span text:style-name="T2">IF</text:span> <text:span text:style-name="T2">EXISTS</text:span> adventureworks_dw;</text:p>
+   <text:p text:style-name="P34"><text:span text:style-name="T2">CREATE</text:span> <text:span text:style-name="T2">DATABASE</text:span> adventureworks_dw;</text:p>
+   <text:p text:style-name="P36"/>
+   <text:p text:style-name="P34"><text:span text:style-name="T2">USE</text:span> adventureworks_dw;</text:p>
+   <text:p text:style-name="P36"/>
+   <text:p text:style-name="P37">-- salesterritory</text:p>
+   <text:p text:style-name="P34"><text:span text:style-name="T2">CREATE</text:span> <text:span text:style-name="T2">TABLE</text:span> dim_territory (</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>TerritoryID <text:span text:style-name="T9">int</text:span>(<text:span text:style-name="T11">11</text:span>) <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>Name <text:span text:style-name="T9">varchar</text:span>(<text:span text:style-name="T11">50</text:span>) <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>CountryRegionCode <text:span text:style-name="T9">varchar</text:span>(<text:span text:style-name="T11">3</text:span>) <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>`Group` <text:span text:style-name="T9">varchar</text:span>(<text:span text:style-name="T11">50</text:span>) <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/><text:span text:style-name="T2">PRIMARY</text:span> <text:span text:style-name="T2">KEY</text:span> (TerritoryID)</text:p>
+   <text:p text:style-name="P34">);</text:p>
+   <text:p text:style-name="P36"/>
+   <text:p text:style-name="P37">-- product, productsubcategory &amp; productcategory</text:p>
+   <text:p text:style-name="P37">-- Slowly changing dimension!</text:p>
+   <text:p text:style-name="P34"><text:span text:style-name="T2">CREATE</text:span> <text:span text:style-name="T2">TABLE</text:span> dim_product (</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>ProductSK <text:span text:style-name="T9">int</text:span>(<text:span text:style-name="T11">11</text:span>),</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>ProductID <text:span text:style-name="T9">int</text:span>(<text:span text:style-name="T11">11</text:span>),</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>Name <text:span text:style-name="T9">varchar</text:span>(<text:span text:style-name="T11">50</text:span>),</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>ProductSubcategoryName <text:span text:style-name="T9">varchar</text:span>(<text:span text:style-name="T11">50</text:span>),</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>ProductCategoryName <text:span text:style-name="T9">varchar</text:span>(<text:span text:style-name="T11">50</text:span>),</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>Version <text:span text:style-name="T9">int</text:span>,</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>DateFrom DATETIME,</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>DateTo DATETIME,</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/><text:span text:style-name="T2">PRIMARY</text:span> <text:span text:style-name="T2">KEY</text:span> (ProductSK)</text:p>
+   <text:p text:style-name="P34">);</text:p>
+   <text:p text:style-name="P36"/>
+   <text:p text:style-name="P37">-- salesorderheader</text:p>
+   <text:p text:style-name="P34"><text:span text:style-name="T2">CREATE</text:span> <text:span text:style-name="T2">TABLE</text:span> dim_time (</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>OrderDate <text:span text:style-name="T9">timestamp</text:span> <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>`Day` <text:span text:style-name="T9">int</text:span>,</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>MonthID <text:span text:style-name="T9">int</text:span>,</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>MonthName <text:span text:style-name="T9">varchar</text:span>(<text:span text:style-name="T11">255</text:span>),</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>`Year` <text:span text:style-name="T9">int</text:span>,</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/><text:span text:style-name="T2">PRIMARY</text:span> <text:span text:style-name="T2">KEY</text:span> (OrderDate)</text:p>
+   <text:p text:style-name="P34">);</text:p>
+   <text:p text:style-name="P36"/>
+   <text:p text:style-name="P37">-- salesorderdetail &amp; salesorderheader</text:p>
+   <text:p text:style-name="P34"><text:span text:style-name="T2">CREATE</text:span> <text:span text:style-name="T2">TABLE</text:span> fact_order (</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>SalesOrderID <text:span text:style-name="T9">int</text:span>(<text:span text:style-name="T11">11</text:span>) <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>SalesOrderDetailID <text:span text:style-name="T9">int</text:span>(<text:span text:style-name="T11">11</text:span>) <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>TerritoryID <text:span text:style-name="T9">int</text:span>(<text:span text:style-name="T11">11</text:span>) <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
+   <text:p text:style-name="P34"><text:soft-page-break/><text:s text:c="4"/>ProductSK <text:span text:style-name="T9">int</text:span>(<text:span text:style-name="T11">11</text:span>) <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>OrderDate <text:span text:style-name="T9">timestamp</text:span> <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>LineTotal <text:span text:style-name="T9">double</text:span> <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/>OrderQty <text:span text:style-name="T9">smallint</text:span>(<text:span text:style-name="T11">6</text:span>) <text:span text:style-name="T2">NOT</text:span> <text:span text:style-name="T2">NULL</text:span>,</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/><text:span text:style-name="T2">PRIMARY</text:span> <text:span text:style-name="T2">KEY</text:span> (SalesOrderDetailID, SalesOrderID),</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/><text:span text:style-name="T2">FOREIGN</text:span> <text:span text:style-name="T2">KEY</text:span> (TerritoryID) <text:span text:style-name="T2">REFERENCES</text:span> dim_territory (TerritoryID),</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/><text:span text:style-name="T2">FOREIGN</text:span> <text:span text:style-name="T2">KEY</text:span> (ProductSK) <text:span text:style-name="T2">REFERENCES</text:span> dim_product (ProductSK),</text:p>
+   <text:p text:style-name="P34"><text:s text:c="4"/><text:span text:style-name="T2">FOREIGN</text:span> <text:span text:style-name="T2">KEY</text:span> (OrderDate) <text:span text:style-name="T2">REFERENCES</text:span> dim_time (OrderDate)</text:p>
+   <text:p text:style-name="P31">);</text:p>
    <text:p text:style-name="P4"/>
-   <text:h text:style-name="P29" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1468_2508680109"/>5) Extract-Transform-Load (ETL) process that populates the data warehouse<text:bookmark-end text:name="__RefHeading___Toc1468_2508680109"/></text:h>
+   <text:h text:style-name="P41" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1468_2508680109"/>5) Extract-Transform-Load (ETL) process that populates the data warehouse<text:bookmark-end text:name="__RefHeading___Toc1468_2508680109"/></text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1426_2508680109"/>dim_territory<text:bookmark-end text:name="__RefHeading___Toc1426_2508680109"/></text:h>
    <text:p text:style-name="P4"><draw:frame draw:style-name="fr9" draw:name="Imagem21" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.207cm" draw:z-index="34"><draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAB3wAAAOdCAYAAABu1ROHAAAABHNCSVQICAgIfAhkiAAAIABJ
@@ -20493,7 +20533,7 @@
     <text:soft-page-break/>
     <table:table-row>
      <table:table-cell table:style-name="Tabela3.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr7" draw:name="Imagem25" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="9.64cm" draw:z-index="38"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr7" draw:name="Imagem25" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="9.64cm" draw:z-index="38"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAlkAAALVCAYAAADzivTkAAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzs3Xd8FNXawPHf7GaTTScJJJAQWiihFykK0lRAihQR1FexIIpSbNjArle93mu7gCKK
           BVQUlaYggjRRUIr0HjqhptfdZHdn3j82GzbD7iaBhIA+Xz75ZHfmzDnPzG52Hs45M6vgwZQp
@@ -21356,7 +21396,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabela3.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr7" draw:name="Imagem26" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="9.64cm" draw:z-index="39"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr7" draw:name="Imagem26" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="9.64cm" draw:z-index="39"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAlkAAALVCAYAAADzivTkAAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzsnXd8FEX/x997Jbl0kkACCaGFEnqRoiBNKVKkiKA+igVRlGLDBpbH8lMffWwPoAhi
           ARVFpSmIIAKiIE2QXkIn9PR2l9zd7u+Py4XLcndJIAHR75sXr9zOzM58Z/ay88l3vjur4IXJ
@@ -22315,7 +22355,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabela3.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr7" draw:name="Imagem27" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="9.64cm" draw:z-index="40"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr7" draw:name="Imagem27" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="9.64cm" draw:z-index="40"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAlkAAALVCAYAAADzivTkAAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzsnXd8FMX7x997Jbl0kkACCaGFEnqRoiBNKVKkiKD+FAuiKMWGDez6tX5tX0ARxAIq
           CkoTEEEEREEpgvQSOqEmIT13yd3t/v64XLgsd5cACYg+b168cjszO/PM7GXnk2eenVXwwsSJ
@@ -23216,7 +23256,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabela3.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr10" draw:name="Imagem28" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="9.119cm" draw:z-index="41"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr10" draw:name="Imagem28" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="9.119cm" draw:z-index="41"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAeAAAAIjCAYAAADbQMgSAAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzs3Xd4FMUbwPHv3eWSy6WHkFBCkVADiHRFQpVeBYIiCljoYAFRkZ9dsSEqRURABZQq
           0qRXaQooTaWFXgIJqZd6bff3RwgkIXcJGEjx/TwPD7nd2ZnZvdt9d2ZndzXkYurUqWpu04UQ
@@ -23798,7 +23838,7 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:soft-page-break/></text:p>
    <text:p text:style-name="P4"><draw:frame draw:style-name="fr7" draw:name="Imagem29" text:anchor-type="paragraph" svg:width="9.999cm" svg:height="13.49cm" draw:z-index="42"><draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAq8AAAOhCAYAAADYHExZAAAABHNCSVQICAgIfAhkiAAAIABJ
        REFUeJzs3Xd8U1X/wPHPTZrRdJfSslcZlQ0yFGRvmYqgj4qioCjDhQt99Od4xD0eQRHER3Ar
@@ -25408,7 +25448,7 @@
        AElFTkSuQmCC
       </office:binary-data>
      </draw:image>
-    </draw:frame><text:soft-page-break/></text:p>
+    </draw:frame></text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1430_2508680109"/>dim_time<text:bookmark-end text:name="__RefHeading___Toc1430_2508680109"/></text:h>
    <text:p text:style-name="P4"/>
    <text:p text:style-name="P4"><draw:frame draw:style-name="fr9" draw:name="Imagem30" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.207cm" draw:z-index="43"><draw:image loext:mime-type="image/png">
@@ -29093,7 +29133,7 @@
     <text:soft-page-break/>
     <table:table-row>
      <table:table-cell table:style-name="Tabela4.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr7" draw:name="Imagem33" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="8.37cm" draw:z-index="46"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr7" draw:name="Imagem33" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="8.37cm" draw:z-index="46"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAhYAAAIvCAYAAAAoMpK2AAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzs3Xd4FNUawOHfzqZsGglJCC0U6c1CL9IhtNAxCCjFa0EQVEAU5NoLigWvoUhRAaWJ
           CCi9dylK76EjIQmkbbLJJtndc/9IAklINsVQ873Pw0N25syZb2bLfHPOmRkd2QgODlbZTRdC
@@ -29818,7 +29858,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabela4.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr4" draw:name="Imagem34" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="9.051cm" draw:z-index="47"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr4" draw:name="Imagem34" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="9.051cm" draw:z-index="47"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAjMAAAJ9CAYAAADAAPPeAAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzs3Xd8FNXawPHfzGaTTa8ktNBCkw5SFKWJgAgCilhexYoiCFiwoVev5doVvYIiilfg
           elVEQZpIRxBEQEJvoRMCCambbHaT3Z15/0g2bDa7mwSjCD5fP37YnXLOM7ObmWfPOTOj4MWU
@@ -33103,7 +33143,7 @@
     <text:soft-page-break/>
     <table:table-row>
      <table:table-cell table:style-name="Tabela5.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr7" draw:name="Imagem36" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="9.64cm" draw:z-index="49"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr7" draw:name="Imagem36" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="9.64cm" draw:z-index="49"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAlkAAALVCAYAAADzivTkAAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzs3Xd8FNXawPHf7GaTTScJJJAQWiihFykK0lRAihQR1FexIIpSbNjArle93mu7gCKK
           BVQUlaYggjRRUIr0HjqhptfdZHdn3j82GzbD7iaBhIA+Xz75ZHfmzDnPzG52Hs45M6vgwZQp
@@ -34123,7 +34163,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabela5.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr7" draw:name="Imagem37" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="8.541cm" draw:z-index="50"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr7" draw:name="Imagem37" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="8.541cm" draw:z-index="50"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAApQAAALBCAYAAADmjDF4AAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzs3Xd8U1X/wPFPbpo0TXcLLZRNGWVvUJQtIIKgIo5HcSIoy4H6iP70cTziHg+giKIC
           blARAQVBloIKyN6FstqyOtNmtEnu/f3RpqQhSctQinzfvPoiuefcc773pr355tx7bnT4MWXK
@@ -39202,7 +39242,7 @@
     <table:table-column table:style-name="Tabela6.B"/>
     <table:table-row>
      <table:table-cell table:style-name="Tabela6.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr13" draw:name="Imagem40" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="7.68cm" draw:z-index="53"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr13" draw:name="Imagem40" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="7.68cm" draw:z-index="53"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAu4AAALQCAYAAADPbfUXAAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzs3Xd4U+X/xvF3ku5JC7SMMqTsIS2yRARkygYRFBHFgSJDcYv+3IqKiqM4GPpVVBBR
           hgLKkCkoIFN2AVmyu/dIzu+PUuxIF00pwft1Xb0oJyfP+Zwnycmdp885MWFHRESEYW+5iIiI
@@ -40040,7 +40080,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabela6.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr13" draw:name="Imagem41" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="7.68cm" draw:z-index="54"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr13" draw:name="Imagem41" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="7.68cm" draw:z-index="54"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAu4AAALQCAYAAADPbfUXAAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzs3Xd8U9X/x/FXku5NgZZRhpQ9hCJLRPaQjSxBHDhQZCjiRH9uRcVtcSDoV1FBQECU
           IaCAICggS9kFZO/uPZL7+wMKHUkHpJTg+/l49EFJbs79nJP09p3Tc29M2BEZGWnYu11ERERE
@@ -40883,7 +40923,7 @@
     <text:soft-page-break/>
     <table:table-row>
      <table:table-cell table:style-name="Tabela6.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr13" draw:name="Imagem42" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="7.68cm" draw:z-index="55"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr13" draw:name="Imagem42" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="7.68cm" draw:z-index="55"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAu4AAALQCAYAAADPbfUXAAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzs3Xd0VNXexvHvzKRXSCChhCKRDpIgTURAqvQmKBdRLChSFLFc0ddrb6hYggVBr3IV
           BBREAaUICIICUqUHkBpqei8z5/0jBFImjUwIg89nrSySmTP7/Pae4eSZnX3OmLAjIiLCsHe7
@@ -41711,7 +41751,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabela6.A1" office:value-type="string">
-      <text:p text:style-name="P23"><draw:frame draw:style-name="fr13" draw:name="Imagem43" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="7.68cm" draw:z-index="56"><draw:image loext:mime-type="image/png">
+      <text:p text:style-name="P30"><draw:frame draw:style-name="fr13" draw:name="Imagem43" text:anchor-type="paragraph" svg:width="7.999cm" svg:height="7.68cm" draw:z-index="56"><draw:image loext:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAu4AAALQCAYAAADPbfUXAAAABHNCSVQICAgIfAhkiAAAIABJ
           REFUeJzs3Xd0VNXexvHvzKRXkkBCCUVCCU0IXURAqnQU4aqIFwuKFEUsV/RVsSsolqCCoFe5
           iiICooAKCgiC9CY9gDTp6b3MnPePEEiZNDIhDD6ftbIIM2f2+Z09k5NndvbZY8KOyMhIw97t
@@ -42549,36 +42589,42 @@
    </table:table>
    <text:p text:style-name="P7"/>
    <text:p text:style-name="P4"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc116_1326428829"/>6)<text:bookmark-end text:name="__RefHeading___Toc116_1326428829"/></text:h>
-   <text:p text:style-name="P36"><text:span text:style-name="T2">Use </text:span><text:span text:style-name="T18">adventureworks_dw;</text:span></text:p>
-   <text:p text:style-name="P39"><text:span text:style-name="T2"/></text:p>
-   <text:p text:style-name="P39"><text:span text:style-name="T2">Select</text:span> <text:span text:style-name="T4">sum</text:span>(OrderQty) <text:span text:style-name="T2">as</text:span> TotalQ</text:p>
-   <text:p text:style-name="P38"><text:span text:style-name="T2">From</text:span> fact_order;</text:p>
-   <text:p text:style-name="P42"/>
-   <text:p text:style-name="P38"><text:span text:style-name="T2">Select</text:span> <text:span text:style-name="T4">sum</text:span>(OrderQty) <text:span text:style-name="T2">as</text:span> TotalQ, CountryRegionCode</text:p>
-   <text:p text:style-name="P38"><text:span text:style-name="T2">From</text:span> fact_order <text:span text:style-name="T2">natural</text:span> <text:span text:style-name="T2">join</text:span> dim_territory</text:p>
-   <text:p text:style-name="P38"><text:span text:style-name="T2">Group</text:span> <text:span text:style-name="T2">by</text:span> CountryRegionCode;</text:p>
-   <text:p text:style-name="P42"/>
-   <text:p text:style-name="P38"><text:span text:style-name="T2">Select</text:span> <text:span text:style-name="T4">sum</text:span>(OrderQty) <text:span text:style-name="T2">as</text:span> TotalQ, CountryRegionCode, ProductCategoryName</text:p>
-   <text:p text:style-name="P38"><text:span text:style-name="T2">From</text:span> fact_order <text:span text:style-name="T2">natural</text:span> <text:span text:style-name="T2">join</text:span> (<text:span text:style-name="T2">Select</text:span> TerritoryID, CountryRegionCode <text:span text:style-name="T2">From</text:span> dim_territory) <text:span text:style-name="T2">as</text:span> dim_Region <text:span text:style-name="T2">natural</text:span> <text:span text:style-name="T2">join</text:span> dim_product</text:p>
-   <text:p text:style-name="P37"><text:span text:style-name="T16">Group</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T16">by</text:span><text:span text:style-name="T17"> CountryRegionCode, ProductCategoryName</text:span></text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc118_1326428829"/>7)<text:bookmark-end text:name="__RefHeading___Toc118_1326428829"/></text:h>
-   <text:p text:style-name="P36"><text:span text:style-name="T2">Use </text:span><text:span text:style-name="T18">adventureworks_dw;</text:span></text:p>
-   <text:p text:style-name="P41"><text:span text:style-name="T18"/></text:p>
-   <text:p text:style-name="P40"><text:span text:style-name="T2">Select</text:span> <text:span text:style-name="T4">sum</text:span>(OrderQty) <text:span text:style-name="T2">as</text:span> TotalQ, CountryRegionCode, ProductCategoryName</text:p>
-   <text:p text:style-name="P35"><text:span text:style-name="T2">From</text:span> fact_order <text:span text:style-name="T2">natural</text:span> <text:span text:style-name="T2">join</text:span> (<text:span text:style-name="T2">Select</text:span> TerritoryID, CountryRegionCode <text:span text:style-name="T2">From</text:span> dim_territory) <text:span text:style-name="T2">as</text:span> dim_Region <text:span text:style-name="T2">natural</text:span> <text:span text:style-name="T2">join</text:span> dim_product</text:p>
-   <text:p text:style-name="P43"><text:span text:style-name="T16">Group</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T16">by</text:span><text:span text:style-name="T17"> CountryRegionCode, ProductCategoryName </text:span><text:span text:style-name="T16">with</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T16">Rollup</text:span><text:span text:style-name="T17">;</text:span></text:p>
-   <text:h text:style-name="P47" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc120_1326428829"/>8)<text:bookmark-end text:name="__RefHeading___Toc120_1326428829"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc116_1326428829"/>6) <text:span text:style-name="T19">SQL Queries</text:span><text:bookmark-end text:name="__RefHeading___Toc116_1326428829"/></text:h>
+   <text:p text:style-name="P29"><text:span text:style-name="T2">Use </text:span><text:span text:style-name="T18">adventureworks_dw;</text:span></text:p>
+   <text:p text:style-name="P47"/>
+   <text:p text:style-name="P47">#a)</text:p>
+   <text:p text:style-name="P47"/>
+   <text:p text:style-name="P22"><text:span text:style-name="T2">Select</text:span> <text:span text:style-name="T4">sum</text:span>(OrderQty) <text:span text:style-name="T2">as</text:span> TotalQ</text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T2">From</text:span> fact_order;</text:p>
+   <text:p text:style-name="P51"/>
+   <text:p text:style-name="P48">#b)</text:p>
+   <text:p text:style-name="P48"/>
+   <text:p text:style-name="P21"><text:span text:style-name="T2">Select</text:span> <text:span text:style-name="T4">sum</text:span>(OrderQty) <text:span text:style-name="T2">as</text:span> TotalQ, CountryRegionCode</text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T2">From</text:span> fact_order <text:span text:style-name="T2">natural</text:span> <text:span text:style-name="T2">join</text:span> dim_territory</text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T2">Group</text:span> <text:span text:style-name="T2">by</text:span> CountryRegionCode;</text:p>
+   <text:p text:style-name="P26"/>
+   <text:p text:style-name="P52">#c)</text:p>
+   <text:p text:style-name="P52"/>
+   <text:p text:style-name="P21"><text:span text:style-name="T2">Select</text:span> <text:span text:style-name="T4">sum</text:span>(OrderQty) <text:span text:style-name="T2">as</text:span> TotalQ, CountryRegionCode, ProductCategoryName</text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T2">From</text:span> fact_order <text:span text:style-name="T2">natural</text:span> <text:span text:style-name="T2">join</text:span> (<text:span text:style-name="T2">Select</text:span> TerritoryID, CountryRegionCode <text:span text:style-name="T2">From</text:span> dim_territory) <text:span text:style-name="T2">as</text:span> dim_Region <text:span text:style-name="T2">natural</text:span> <text:span text:style-name="T2">join</text:span> dim_product</text:p>
+   <text:p text:style-name="P28"><text:span text:style-name="T16">Group</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T16">by</text:span><text:span text:style-name="T17"> CountryRegionCode, ProductCategoryName</text:span></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc118_1326428829"/>7) <text:span text:style-name="T19">SQL/OLAP query</text:span><text:bookmark-end text:name="__RefHeading___Toc118_1326428829"/></text:h>
+   <text:p text:style-name="P29"><text:span text:style-name="T2">Use </text:span><text:span text:style-name="T18">adventureworks_dw;</text:span></text:p>
+   <text:p text:style-name="P49"/>
+   <text:p text:style-name="P23"><text:span text:style-name="T2">Select</text:span> <text:span text:style-name="T4">sum</text:span>(OrderQty) <text:span text:style-name="T2">as</text:span> TotalQ, CountryRegionCode, ProductCategoryName</text:p>
+   <text:p text:style-name="P40"><text:span text:style-name="T2">From</text:span> fact_order <text:span text:style-name="T2">natural</text:span> <text:span text:style-name="T2">join</text:span> (<text:span text:style-name="T2">Select</text:span> TerritoryID, CountryRegionCode <text:span text:style-name="T2">From</text:span> dim_territory) <text:span text:style-name="T2">as</text:span> dim_Region <text:span text:style-name="T2">natural</text:span> <text:span text:style-name="T2">join</text:span> dim_product</text:p>
+   <text:p text:style-name="P32"><text:span text:style-name="T16">Group</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T16">by</text:span><text:span text:style-name="T17"> CountryRegionCode, ProductCategoryName </text:span><text:span text:style-name="T16">with</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T16">Rollup</text:span><text:span text:style-name="T17">;</text:span></text:p>
+   <text:h text:style-name="P42" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc120_1326428829"/>8)<text:bookmark-end text:name="__RefHeading___Toc120_1326428829"/></text:h>
    <text:p text:style-name="P4"/>
-   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:soft-page-break/></text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc122_1326428829"/>9)<text:bookmark-end text:name="__RefHeading___Toc122_1326428829"/></text:h>
    <text:p text:style-name="P4"/>
    <text:p text:style-name="P4"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc124_1326428829"/><text:soft-page-break/>10)<text:bookmark-end text:name="__RefHeading___Toc124_1326428829"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc124_1326428829"/>10)<text:bookmark-end text:name="__RefHeading___Toc124_1326428829"/></text:h>
    <text:p text:style-name="P4"/>
    <text:p text:style-name="P4"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc126_1326428829"/>11)<text:bookmark-end text:name="__RefHeading___Toc126_1326428829"/></text:h>
-   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr11" draw:name="Image1" text:anchor-type="paragraph" svg:width="17cm" svg:height="9.34cm" draw:z-index="57"><draw:image loext:mime-type="image/png">
+   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr12" draw:name="Image1" text:anchor-type="paragraph" svg:width="17cm" svg:height="9.34cm" draw:z-index="57"><draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAB4AAAAQfCAYAAADyevTNAAAABHNCSVQICAgIfAhkiAAAIABJ
        REFUeJzs3Xl8VPW9//HXrNkTCCHsSVhEEQFZBJUkoLhVRW2RLlas1OVW219vb1uXXhdEa21t
        e9tbfdjW1uve3iu1rUqtdSMhal3YBEF2EvZA9sy+nPP7Y5KQZSaZTFbp+/l4zIOcmZzz/Xy/
@@ -47313,7 +47359,7 @@
        AAAAVon/D0GV97aN8eUYAAAAAElFTkSuQmCC
       </office:binary-data>
      </draw:image>
-    </draw:frame></text:p>
+    </draw:frame><text:soft-page-break/></text:p>
    <text:p text:style-name="P4"/>
    <text:p text:style-name="P4"/>
    <text:p text:style-name="P4"><draw:frame draw:style-name="fr14" draw:name="Image4" text:anchor-type="paragraph" svg:x="0.009cm" svg:y="0.095cm" svg:width="5.457cm" svg:height="7.049cm" draw:z-index="59"><draw:image loext:mime-type="image/png">
@@ -48291,7 +48337,7 @@
        ZGlmeQAyMDE4LTEyLTAyVDEzOjA4OjQ1KzAwOjAwwXQ1tgAAAABJRU5ErkJggg==
       </office:binary-data>
      </draw:image>
-    </draw:frame><text:soft-page-break/></text:p>
+    </draw:frame></text:p>
   </office:text>
  </office:body>
 </office:document>
