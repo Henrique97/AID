@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="Generator" content="Kate, the KDE Advanced Text Editor" />
+<title>4.sql</title>
+</head>
+<!-- Highlighting: "SQL" -->
+<body>
+<pre style='color:#000000;background-color:#ffffff;'>
+<b>DROP</b> <b>DATABASE</b> <b>IF</b> <b>EXISTS</b> adventureworks_dw;
+<b>CREATE</b> <b>DATABASE</b> adventureworks_dw;
+
+<b>USE</b> adventureworks_dw;
+
+<span style='color:#898887;'>-- salesterritory</span>
+<b>CREATE</b> <b>TABLE</b> dim_territory (
+    TerritoryID <span style='color:#0057ae;'>int</span>(<span style='color:#b08000;'>11</span>) <b>NOT</b> <b>NULL</b>,
+    Name <span style='color:#0057ae;'>varchar</span>(<span style='color:#b08000;'>50</span>) <b>NOT</b> <b>NULL</b>,
+    CountryRegionCode <span style='color:#0057ae;'>varchar</span>(<span style='color:#b08000;'>3</span>) <b>NOT</b> <b>NULL</b>,
+    `Group` <span style='color:#0057ae;'>varchar</span>(<span style='color:#b08000;'>50</span>) <b>NOT</b> <b>NULL</b>,
+    <b>PRIMARY</b> <b>KEY</b> (TerritoryID)
+);
+
+<span style='color:#898887;'>-- product, productsubcategory &amp; productcategory</span>
+<span style='color:#898887;'>-- Slowly changing dimension!</span>
+<b>CREATE</b> <b>TABLE</b> dim_product (
+    ProductSK <span style='color:#0057ae;'>int</span>(<span style='color:#b08000;'>11</span>),
+    ProductID <span style='color:#0057ae;'>int</span>(<span style='color:#b08000;'>11</span>),
+    Name <span style='color:#0057ae;'>varchar</span>(<span style='color:#b08000;'>50</span>),
+    ProductSubcategoryName <span style='color:#0057ae;'>varchar</span>(<span style='color:#b08000;'>50</span>),
+    ProductCategoryName <span style='color:#0057ae;'>varchar</span>(<span style='color:#b08000;'>50</span>),
+    Version <span style='color:#0057ae;'>int</span>,
+    DateFrom DATETIME,
+    DateTo DATETIME,
+    <b>PRIMARY</b> <b>KEY</b> (ProductSK)
+);
+
+<span style='color:#898887;'>-- salesorderheader</span>
+<b>CREATE</b> <b>TABLE</b> dim_time (
+    OrderDate <span style='color:#0057ae;'>timestamp</span> <b>NOT</b> <b>NULL</b>,
+    `Day` <span style='color:#0057ae;'>int</span>,
+    MonthID <span style='color:#0057ae;'>int</span>,
+    MonthName <span style='color:#0057ae;'>varchar</span>(<span style='color:#b08000;'>255</span>),
+    `Year` <span style='color:#0057ae;'>int</span>,
+    <b>PRIMARY</b> <b>KEY</b> (OrderDate)
+);
+
+<span style='color:#898887;'>-- salesorderdetail &amp; salesorderheader</span>
+<b>CREATE</b> <b>TABLE</b> fact_order (
+    SalesOrderID <span style='color:#0057ae;'>int</span>(<span style='color:#b08000;'>11</span>) <b>NOT</b> <b>NULL</b>,
+    SalesOrderDetailID <span style='color:#0057ae;'>int</span>(<span style='color:#b08000;'>11</span>) <b>NOT</b> <b>NULL</b>,
+    TerritoryID <span style='color:#0057ae;'>int</span>(<span style='color:#b08000;'>11</span>) <b>NOT</b> <b>NULL</b>,
+    ProductSK <span style='color:#0057ae;'>int</span>(<span style='color:#b08000;'>11</span>) <b>NOT</b> <b>NULL</b>,
+    OrderDate <span style='color:#0057ae;'>timestamp</span> <b>NOT</b> <b>NULL</b>,
+    LineTotal <span style='color:#0057ae;'>double</span> <b>NOT</b> <b>NULL</b>,
+    OrderQty <span style='color:#0057ae;'>smallint</span>(<span style='color:#b08000;'>6</span>) <b>NOT</b> <b>NULL</b>,
+    <b>PRIMARY</b> <b>KEY</b> (SalesOrderDetailID, SalesOrderID),
+    <b>FOREIGN</b> <b>KEY</b> (TerritoryID) <b>REFERENCES</b> dim_territory (TerritoryID),
+    <b>FOREIGN</b> <b>KEY</b> (ProductSK) <b>REFERENCES</b> dim_product (ProductSK),
+    <b>FOREIGN</b> <b>KEY</b> (OrderDate) <b>REFERENCES</b> dim_time (OrderDate)
+);
+</pre>
+</body>
+</html>
