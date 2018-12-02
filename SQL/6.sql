@@ -1,3 +1,5 @@
+USE adventureworks_dw;
+
 Select sum(OrderQty) as TotalQ
 From fact_order;
 
