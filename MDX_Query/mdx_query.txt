@@ -2,3 +2,12 @@ SELECT NON EMPTY Product.[Product Category].Members ON COLUMNS,
 CROSSJOIN(Territory.[Region].Members, {Time.Year.[2003], Time.Year.[2004]}) ON ROWS
 FROM Orders
 WHERE Measures.Quantity
+
+
+OU
+
+
+SELECT NON EMPTY Product.[Product Category].Members ON COLUMNS,
+Territory.[Region].Members ON ROWS
+FROM Orders
+WHERE {(Time.Year.[2003], Measures.Quantity), (Time.Year.[2004], Measures.Quantity)}
